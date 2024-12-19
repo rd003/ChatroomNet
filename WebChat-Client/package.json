@@ -1,0 +1,23 @@
+{
+  "name": "webchat-client",
+  "version": "1.0.0",
+  "description": "It is a `Chat Room Client` application made with vanilla js. It is a complete chat room application. It's backend written in `Signal R` and frontend written in `Vannila Js`. You can find the server application [here](https://github.com/rd003/WebChatServer)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rd003/WebChat-Client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rd003/WebChat-Client/issues"
+  },
+  "homepage": "https://github.com/rd003/WebChat-Client#readme",
+  "dependencies": {
+    "@microsoft/signalr": "^7.0.4"
+  }
+}
